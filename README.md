@@ -40,8 +40,6 @@ This repository is provided for academic documentation purposes. Source code rec
 The app consumes data from:
 ```https://digimon-api.vercel.app/api/digimon```
 
-[Digimon API](https://digimon-api.vercel.app/api/digimon)
-
 Response format (example):
 
 ```json
